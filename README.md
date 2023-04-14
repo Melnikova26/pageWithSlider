@@ -1,6 +1,6 @@
 ﻿# pageWithSlider
 <h3>Результат можно посмотреть, перейдя по ссылке:</h3>
-<a>https://melnikova26.github.io/pageWithSlider/</a>
+https://melnikova26.github.io/pageWithSlider/
 
 <h4>Изображение страницы:</h4>
 <img width="600" src="https://user-images.githubusercontent.com/106463796/232125419-7a4518b8-c7ce-4940-83e7-b5c474b7b23e.png" alt="Изображение страницы">
